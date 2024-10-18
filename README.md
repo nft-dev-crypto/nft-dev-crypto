@@ -1,7 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![image](https://github.com/user-attachments/assets/312337d7-c220-4413-91b8-cb631cd5654f)![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center">Hi 👋, I'm Aladinyo</h1>
-<h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
+<h1 align="center">Hi 👋, I am Software Engineer</h1>
+<h3 align="center">Your favorite BlockChain Developer, I’ve developed NFT Mint, Buy, Sell, Staking, Auction contract by using ERC721, ERC1155 💻🧑‍💻, and I’m good at integrating backend with Subgraph and Bitquery. 🎨🖌️.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aladinyo&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="aladinyo" /> </p>
 
@@ -9,17 +9,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🔭 I’m currently working on [ChatPlus](https://github.com/aladinyo/ChatPlus)
+- 🔭 I’m currently working on BlockChain Project.
 
 - 🌱 I’m currently learning **AI, Machine Learning and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aladinyo?tab=repositories](https://github.com/aladinyo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/nft-dev-crypto?tab=repositories](https://github.com/nft-dev-crypto?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/aladinyo](https://dev.to/aladinyo)
+- 📝 I regularly write articles on [https://dev.to/aladinyo](https://dev.to/devgod1994/compiling-deploying-verifying-testing-smart-contract-through-hardhat-4i5m))
 
 - 💬 Ask me about **React, JavaScript, NodeJS and Firebase**
 
-- 📫 How to reach me **bounekeur@gmail.com**
+- 📫 How to reach me **devgod19941212@gmail.com**
 
 - ⚡ Fun fact **I'm a rapper 🎤🎧🎵**
 <br/>
